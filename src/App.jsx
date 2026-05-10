@@ -235,7 +235,7 @@ export default function App() {
     <main className="app">
       <header className="header">
         <span className="badge">Powered by Anakin.io & Groq</span>
-        <h1>ConnectIn</h1>
+        <h1>HackMatch</h1>
         <p>Intelligent networking for the next generation of builders.</p>
       </header>
 
